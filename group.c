@@ -1,7 +1,4 @@
-/**
- *		MAIN FILE FOR PROJECT
- *		INSERT CODE BELOW
- */
+#include <stdio.h>
 
 void RobFalcon() {
 
